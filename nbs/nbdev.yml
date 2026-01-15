@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "testv2"
+  site-url: "https://perceptualrobots.github.io/testv2"
+  description: "testing"
+  repo-branch: main
+  repo-url: "https://github.com/perceptualrobots/testv2"
